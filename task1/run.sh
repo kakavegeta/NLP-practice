@@ -1,0 +1,1 @@
+python model.py --iterations=100 --lr=0.005 --batch_size=128 --lamb=0.01 
